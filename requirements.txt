@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+openai
+python-dotenv
+plotly
+
+
