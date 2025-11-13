@@ -23,9 +23,6 @@ This project provides recipe suggestions based on available ingredients, dietary
 - **Evaluation:** Metrics like accuracy, relevance score, or recommendation ranking  
 
 ## Setup Instructions
-
-## Setup Instructions
-
 1. **Clone the repository:**
 
 ```bash
